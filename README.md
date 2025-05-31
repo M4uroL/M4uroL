@@ -1,106 +1,238 @@
-<h1 align="center">👋 Olá, eu sou o Mauro de Lima!</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:2196F3&height=200&section=header&text=Mauro%20de%20Lima&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20"/>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Estudante+de+Engenharia+Informática;Desenvolvedor+Full+Stack;Especialista+em+Java+hi%26+Spring;Apaixonado+por+Tecnologia&font=Fira%20Code&center=true&width=440&height=45&color=00d4ff&vCenter=true&size=22">
-</p>
+<!-- Foto Principal -->
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_USER_ID?s=150&v=4" alt="Mauro de Lima" style="border-radius: 50%; border: 4px solid #4CAF50; box-shadow: 0 8px 32px rgba(0,0,0,0.3);"/>
+  <br><br>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Estudante+de+Engenharia+Informática;Full+Stack+Developer;Java+%26+Spring+Specialist;React+%26+Angular+Developer;Passionate+about+Technology;Always+Learning+New+Things&font=Fira%20Code&center=true&width=500&height=50&color=4CAF50&vCenter=true&size=22">
+</div>
 
-<p align="center">
-  🎓 <strong>Engenharia Informática</strong> | 💻 <strong>Software Developer</strong> | 🌍 <strong>Angola</strong>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maurochelsio&color=00d4aa&style=for-the-badge" alt="Profile views" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=maurochelsio&color=4CAF50&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/maurochelsio?label=Seguidores&style=for-the-badge&color=2196F3" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/maurochelsio?label=Total%20Stars&style=for-the-badge&color=FFD700" alt="GitHub stars" />
+</div>
 
 ---
 
-## 🧠 Sobre mim
+<!-- GIF de Programador mais moderno -->
+<img align="right" alt="Coding GIF" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+### 🧑‍💻 Sobre mim
 
 ```javascript
-const mauro = {
-    localização: "Angola 🇦🇴",
+const mauroDeLima = {
+    localização: "Luanda, Angola 🇦🇴",
+    idade: 25,
     educação: "Engenharia Informática",
-    especialidades: ["HTML+CSS+JS", "Java", "Spring Boot", "React", "Angular" "Docker" ],
-    paixões: ["Resolver problemas", "Criar soluções escaláveis", "Aprender constantemente"],
-    filosofia: "Code, learn, repeat.",
-    objetivos2025: ["Contribuir mais", "Dominar novas tecnologias "]
+    especialidades: [
+        "Java & Spring Boot",
+        "React & Angular", 
+        "Full Stack Development",
+        "System Architecture"
+    ],
+    paixões: [
+        "Resolver problemas complexos",
+        "Criar soluções escaláveis",
+        "Mentoring outros devs",
+        "Open Source"
+    ],
+    filosofia: "Code with purpose, learn continuously",
+    objetivos2025: [
+        "Contribuir mais para projetos Open Source",
+        "Dominar arquiteturas de microsserviços",
+        "Expandir conhecimentos em AI/ML"
+    ],
+    funFact: "Consumo mais café que água ☕",
+    status: "Disponível para novas oportunidades! 🚀"
 };
 ```
 
-> *"Cada bug é uma oportunidade de aprendizado, cada projeto é uma chance de crescer."*
+> *"A tecnologia move o mundo, mas são as pessoas que fazem a diferença."*
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Arsenal Tecnológico
 
-### **Backend**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,angular,js,ts,python,html,css,bootstrap,tailwind,postgres,sqlite,aws,docker,git,github,vscode,idea&perline=10" />
+</div>
+
+<!-- GIF de tecnologias -->
+<div align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="50" alt="Python"/>
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50" alt="React"/>
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50" alt="HTML"/>
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50" alt="CSS"/>
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50" alt="Node"/>
+</div>
+
+### **Backend Development**
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/>
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-### **Frontend**
+### **Frontend Development**
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
-### **Banco de Dados & Cloud**
+### **Database & Cloud**
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-</p>
-
-### **Ferramentas & Outros**
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 Projetos em destaques
+## 🚀 Projetos em Destaque
+
+<!-- GIF de projetos/desenvolvimento -->
+<div align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" alt="Developing"/>
+</div>
+
 <table>
 <tr>
 <td width="50%">
-
-### 📱 AppToDo
-**Lista de tarefas moderna e responsiva**
-- Interface intuitiva e design clean
-- Funcionalidades avançadas de organização
-- **Tech:** React, Tailwind CSS, Bootstrap
-
-[![Repo](https://img.shields.io/badge/GitHub-Repositório-181717?style=for-the-badge&logo=github)](https://github.com/maurochelsio/AppToDo)
-
+<h3 align="center">📱 AppToDo</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Todo App Demo"/>
+  <br><br>
+  <strong>Lista de tarefas moderna e responsiva</strong>
+  <br><br>
+  ✅ Interface intuitiva e design clean<br>
+  ✅ Funcionalidades avançadas de organização<br>
+  ✅ Responsivo para todos os dispositivos<br>
+  <br>
+  <strong>Tech Stack:</strong> React, Tailwind CSS, Bootstrap
+  <br><br>
+  <a href="https://github.com/maurochelsio/AppToDo">
+    <img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</div>
 </td>
 <td width="50%">
-
-### 🌐 Sistema Helpdesk
-**Plataforma completa de suporte técnico**
-- Sistema multiusuário com diferentes perfis
-- Dashboard administrativo completo
-- **Tech:** Java, Spring Boot, Angular
-
-[![Repo](https://img.shields.io/badge/GitHub-Repositório-181717?style=for-the-badge&logo=github)](https://github.com/maurochelsio/helpdesk-system)
-
+<h3 align="center">🌐 Sistema Helpdesk</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="200" alt="Support System"/>
+  <br><br>
+  <strong>Plataforma completa de suporte técnico</strong>
+  <br><br>
+  🎯 Sistema multiusuário com diferentes perfis<br>
+  📊 Dashboard administrativo completo<br>
+  🔐 Sistema de autenticação e autorização<br>
+  <br>
+  <strong>Tech Stack:</strong> Java, Spring Boot, Angular
+  <br><br>
+  <a href="https://github.com/maurochelsio/helpdesk-system">
+    <img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</div>
 </td>
 </tr>
 </table>
 
 ---
 
-## 📫 Vamos nos conectar?
+## 📊 Estatísticas GitHub
 
-<p align="center">
+<!-- GIF de estatísticas/análise -->
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100" alt="Analytics"/>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maurochelsio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4CAF50&icon_color=2196F3&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurochelsio&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4CAF50&text_color=c9d1d9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maurochelsio&theme=tokyonight&hide_border=true&background=0d1117&stroke=4CAF50&ring=2196F3&fire=FFD700&currStreakLabel=c9d1d9" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maurochelsio&bg_color=0d1117&color=4CAF50&line=2196F3&point=FFD700&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
+
+## 🏆 Conquistas GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=maurochelsio&theme=nord&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 🌱 Atualmente estudando
+
+<!-- GIF de aprendizado -->
+<div align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" alt="Learning"/>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=microgenetics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+</div>
+
+---
+
+## 💼 Experiência Profissional
+
+<!-- GIF de trabalho/escritório -->
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Working"/>
+</div>
+
+```mermaid
+timeline
+    title Jornada Profissional
+    2020 : Início na Programação
+         : Primeiros projetos em Java
+    2021 : Desenvolvimento Web
+         : React e Angular
+    2022 : Full Stack Developer
+         : Spring Boot + React
+    2023 : Engenharia de Software
+         : Arquitetura de Sistemas
+    2024 : Senior Developer
+         : Mentoring e Liderança
+    2025 : Próximos Desafios
+         : Microserviços e Cloud
+```
+
+---
+
+## 📫 Vamos nos conectar!
+
+<!-- GIF de conexão/rede -->
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100" alt="Connecting"/>
+</div>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/mauro-de-lima-1212712b1/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&hover=shadow"/>
   </a>
   <a href="mailto:maurochelsio@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -108,14 +240,68 @@ const mauro = {
   <a href="https://github.com/maurochelsio">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
+  <a href="https://twitter.com/maurochelsio" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/YOUR_WHATSAPP_NUMBER" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+## ☕ Apoie meu trabalho
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7qDVHln5s9aZqs2k/giphy.gif" width="100" alt="Coffee"/>
+  <br>
+  <p><em>Se você gosta do meu trabalho, que tal me pagar um café? ☕</em></p>
+  <a href="https://buymeacoffee.com/maurochelsio" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+  </a>
+</div>
+
+---
+
+## 📝 Últimos Posts do Blog
+
+<!-- GIF de escrita/blog -->
+<div align="center">
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="100" alt="Writing"/>
+</div>
+
+<!-- BLOG-POST-LIST:START -->
+- [Como construir uma API REST com Spring Boot](https://yourblog.com/api-spring-boot)
+- [React Hooks: Guia Completo para Iniciantes](https://yourblog.com/react-hooks-guide)
+- [Microsserviços: Padrões e Práticas](https://yourblog.com/microservices-patterns)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+---
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurochelsio/maurochelsio/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:2196F3&height=120&section=footer"/>
   
-  **Feito com ❤️, muito café ☕ e código limpo**
+  <!-- GIF de despedida -->
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" alt="Wave"/>
   
-  *"O único jeito de fazer um excelente trabalho é amar o que você faz."*
+  **💚 Feito com amor, dedicação e muito café ☕**
+  
+  *"O sucesso é a soma de pequenos esforços repetidos dia após dia."*
+  
+  ⭐ Se você gostou do meu trabalho, considere dar uma estrela nos repositórios!
+  
+  <img src="https://komarev.com/ghpvc/?username=maurochelsio&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
