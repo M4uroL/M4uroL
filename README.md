@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Mauro de Lima!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Estudante+de+Engenharia+Informática;Desenvolvedor+Full+Stack;Especialista+em+Java+%26+Spring;Apaixonado+por+Tecnologia&font=Fira%20Code&center=true&width=440&height=45&color=00d4ff&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Estudante+de+Engenharia+Informática;Desenvolvedor+Full+Stack;Especialista+em+Java+hi%26+Spring;Apaixonado+por+Tecnologia&font=Fira%20Code&center=true&width=440&height=45&color=00d4ff&vCenter=true&size=22">
 </p>
 
 <p align="center">
@@ -20,10 +20,10 @@
 const mauro = {
     localização: "Angola 🇦🇴",
     educação: "Engenharia Informática",
-    especialidades: ["Java", "Spring Boot", "React", "Angular"],
+    especialidades: ["HTML+CSS+JS", "Java", "Spring Boot", "React", "Angular" "Docker" ],
     paixões: ["Resolver problemas", "Criar soluções escaláveis", "Aprender constantemente"],
     filosofia: "Code, learn, repeat.",
-    objetivos2025: ["Contribuir mais para open source", "Dominar arquiteturas de microsserviços"]
+    objetivos2025: ["Contribuir mais", "Dominar novas tecnologias "]
 };
 ```
 
@@ -66,8 +66,7 @@ const mauro = {
 
 ---
 
-## 🚀 Projetos em Destaque
-
+## 🚀 Projetos em destaques
 <table>
 <tr>
 <td width="50%">
@@ -94,35 +93,6 @@ const mauro = {
 </td>
 </tr>
 </table>
-
----
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maurochelsio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurochelsio&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maurochelsio&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
-## 🎯 Atividade Recente
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maurochelsio&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true"/>
-</div>
-
----
-
-## 🏆 Conquistas
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maurochelsio&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</div>
 
 ---
 
