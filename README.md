@@ -134,7 +134,7 @@ const mauroDeLima = {
   <strong>Plataforma completa de suporte técnico</strong>
   <br><br>
   🎯 Sistema multiusuário com diferentes perfis<br>
-  📊 Dashboard administrativo completo<br>
+  📊 Dashboard administrativo<br>
   🔐 Sistema de autenticação e autorização<br>
   <br>
   <strong>Tech Stack:</strong> Java, Spring Boot, Angular
