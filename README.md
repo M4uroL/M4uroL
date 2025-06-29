@@ -174,7 +174,7 @@ const mauroDeLima = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maurochelsio&bg_color=0d1117&color=4CAF50&line=2196F3&point=FFD700&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M4uroL&bg_color=0d1117&color=4CAF50&line=2196F3&point=FFD700&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ## 🏆 Conquistas GitHub
