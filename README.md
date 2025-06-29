@@ -165,12 +165,12 @@ const mauroDeLima = {
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maurochelsio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4CAF50&icon_color=2196F3&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurochelsio&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4CAF50&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M4uroL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4CAF50&icon_color=2196F3&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4uroL&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4CAF50&text_color=c9d1d9"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maurochelsio&theme=tokyonight&hide_border=true&background=0d1117&stroke=4CAF50&ring=2196F3&fire=FFD700&currStreakLabel=c9d1d9" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M4uroL&theme=tokyonight&hide_border=true&background=0d1117&stroke=4CAF50&ring=2196F3&fire=FFD700&currStreakLabel=c9d1d9" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
