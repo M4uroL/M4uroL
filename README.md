@@ -157,7 +157,10 @@ const mauroDeLima = {
 <!-- GIF de estatísticas/análise -->
 <div align="center">
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100" alt="Analytics"/>
+  
   <img src="https://github-readme-stats.vercel.app/api?username=M4uroL&show_icons=true&theme=tokyonight"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4uroL&layout=compact&theme=tokyonight)"/>
 
 </div>
 
