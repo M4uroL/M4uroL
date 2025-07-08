@@ -29,7 +29,7 @@ const mauroDeLima = {
     educação: "Engenharia Informática",
     especialidades: [
         "Java & Spring Boot",
-        "React & Angular", 
+        "React & MySQL", 
         "Full Stack Development",
         "System Architecture"
     ],
@@ -40,7 +40,7 @@ const mauroDeLima = {
         "Open Source"
     ],
     filosofia: "Code with purpose, learn continuously",
-    objetivos2025: [
+    objetivos: [
         "Contribuir mais para projetos Open Source",
         "Dominar arquiteturas de microsserviços",
         "Expandir conhecimentos em AI/ML"
@@ -94,6 +94,10 @@ const mauroDeLima = {
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
 
+<p align="center">
+  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Logo" width="170"/>
+</p>
+
 ---
 
 ## 🚀 Projetos em Destaque
@@ -127,11 +131,11 @@ const mauroDeLima = {
 </div>
 </td>
 <td width="50%">
-<h3 align="center">🌐 Sistema Helpdesk</h3>
+<h3 align="center">🌐 Controle de Propinas</h3>
 <div align="center">
   <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="200" alt="Support System"/>
   <br><br>
-  <strong>Plataforma completa de suporte técnico</strong>
+  <strong>Sistema de Gerenciamento de DB para Controle de Propinas</strong>
   <br><br>
   🎯 Sistema multiusuário com diferentes perfis<br>
   📊 Dashboard administrativo<br>
@@ -210,12 +214,12 @@ const mauroDeLima = {
 ```mermaid
 timeline
     title Jornada Profissional
-    2020 : Início na Programação
+    2023 : Início na Programação
          : Primeiros projetos em Java
-    2021 : Desenvolvimento Web
+    2024 : Desenvolvimento Web
          : React e Angular
     2022 : Full Stack Developer
-         : Spring Boot + React
+  4 2023 : Spring Boot + React
     2023 : Engenharia de Software
          : Arquitetura de Sistemas
     2024 : Senior Developer
