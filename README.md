@@ -25,11 +25,11 @@
 ```javascript
 const mauroDeLima = {
     localização: "Luanda, Angola 🇦🇴",
-    idade: 25,
+    idade: 23,
     educação: "Engenharia Informática",
     especialidades: [
         "Java & Spring Boot",
-        "React & MySQL", 
+        "DataBase & SQL", 
         "Full Stack Development",
         "System Architecture"
     ],
@@ -41,7 +41,7 @@ const mauroDeLima = {
     ],
     filosofia: "Code with purpose, learn continuously",
     objetivos: [
-        "Contribuir mais para projetos Open Source",
+        "Contribuir para projetos Open Source",
         "Dominar arquiteturas de microsserviços",
         "Expandir conhecimentos em AI/ML"
     ],
@@ -137,11 +137,11 @@ const mauroDeLima = {
   <br><br>
   <strong>Sistema de Gerenciamento de DB para Controle de Propinas</strong>
   <br><br>
-  🎯 Sistema multiusuário com diferentes perfis<br>
-  📊 Dashboard administrativo<br>
-  🔐 Sistema de autenticação e autorização<br>
+  🎯 Flexibilidade é robusto<br>
+  📊 Consultas automatizadas<br>
+  🔐 Sistema de seguro <br>
   <br>
-  <strong>Tech Stack:</strong> Java, Spring Boot, Angular
+  <strong>Tech Stack:</strong> SQL, MYSQL, PostreSQL 
   <br><br>
   <a href="https://github.com/maurochelsio/helpdesk-system">
     <img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white"/>
