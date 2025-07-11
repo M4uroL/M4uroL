@@ -137,9 +137,9 @@ const mauroDeLima = {
   <br><br>
   <strong>Sistema de Gerenciamento de DB para Controle de Propinas</strong>
   <br><br>
-  🎯 Flexibilidade é robusto<br>
+  🎯 Flexível e robusto<br>
   📊 Consultas automatizadas<br>
-  🔐 Sistema de seguro <br>
+  🔐 Sistema seguro <br>
   <br>
   <strong>Tech Stack:</strong> SQL, MYSQL, PostreSQL 
   <br><br>
@@ -217,15 +217,15 @@ timeline
     2023 : Início na Programação
          : Primeiros projetos em Java
     2024 : Desenvolvimento Web
-         : React e Angular
-    2022 : Full Stack Developer
-  4 2023 : Spring Boot + React
+         : HTML + CSS + JS
+    2022 : Java
+  4 2023 : Spring Boot
     2023 : Engenharia de Software
          : Arquitetura de Sistemas
-    2024 : Senior Developer
+    2024 : Junior Developer
          : Mentoring e Liderança
     2025 : Próximos Desafios
-         : Microserviços e Cloud
+         : Full Stack Developer 
 ```
 
 ---
