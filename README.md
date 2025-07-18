@@ -4,7 +4,7 @@
 
 <!-- Foto Principal -->
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/M4uroL?s=150&v=4" alt="Mauro de Lima" style="border-radius: 50%; border: 4px solid #4CAF50; box-shadow: 0 8px 32px rgba(0,0,0,0.3);"/>
+  <img src="https://avatars.githubusercontent.com/M4uroL?s=150&v=4" alt="Mauro de Lima" style="border-radius: 50%; border: 4px solid #4CAF50; box-shadow: 0 8px 32px rgba(0,0,0,0.3);"/>
   <br><br>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Estudante+de+Engenharia+Informática;Full+Stack+Developer;Java+%26+Spring+Specialist;React+%26+Angular+Developer;Passionate+about+Technology;Always+Learning+New+Things&font=Fira%20Code&center=true&width=500&height=50&color=4CAF50&vCenter=true&size=22">
 </div>
