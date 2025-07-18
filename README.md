@@ -10,9 +10,9 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=maurochelsio&color=4CAF50&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/maurochelsio?label=Seguidores&style=for-the-badge&color=2196F3" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/maurochelsio?label=Total%20Stars&style=for-the-badge&color=FFD700" alt="GitHub stars" />
+  <img src="https://komarev.com/ghpvc/?username=M4uroL&color=4CAF50&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/M4uroL?label=Seguidores&style=for-the-badge&color=2196F3" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/M4uroL?label=Total%20Stars&style=for-the-badge&color=FFD700" alt="GitHub stars" />
 </div>
 
 ---
