@@ -179,7 +179,7 @@ const mauroDeLima = {
 ## 🏆 Conquistas GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maurochelsio&theme=nord&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=M4uroL&theme=nord&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -293,7 +293,7 @@ timeline
 
 <!-- Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/M4uroL/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/M4uroL/M4uroL/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
 ---
