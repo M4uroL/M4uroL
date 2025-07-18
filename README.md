@@ -20,7 +20,7 @@
 <!-- GIF de Programador mais moderno -->
 <img align="right" alt="Coding GIF" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### 🧑‍💻 Sobre mim
+### About me
 
 ```javascript
 const mauroDeLima = {
@@ -293,7 +293,7 @@ timeline
 
 <!-- Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurochelsio/maurochelsio/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/M4uroL/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
 ---
