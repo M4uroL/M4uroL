@@ -27,20 +27,20 @@ const mauroDeLima = {
     location: "Luanda, Angola 🇦🇴",
     Age: 23,
     education: "Engenharia Informática",
-    especialidades: [
+    specialities: [
         "Java & Spring Boot",
         "DataBase & SQL", 
         "Full Stack Development",
         "System Architecture"
     ],
-    paixões: [
+    passion: [
         "Resolver problemas complexos",
-        "Make solutions escaláveis",
+        "Make scalable solutions",
         "Mentoring others devs",
         "Open Source"
     ],
-    filosofia: "Code with purpose, learn continuously",
-    objetivos: [
+    Philosophy: "Code with purpose, learn continuously",
+    Goals: [
         "Contribuir para projetos Open Source",
         "Dominar arquiteturas de microsserviços",
         "Expandir conhecimentos em AI/ML"
