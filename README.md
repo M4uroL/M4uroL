@@ -24,9 +24,9 @@
 
 ```javascript
 const mauroDeLima = {
-    localização: "Luanda, Angola 🇦🇴",
-    idade: 23,
-    educação: "Engenharia Informática",
+    location: "Luanda, Angola 🇦🇴",
+    Age: 23,
+    education: "Engenharia Informática",
     especialidades: [
         "Java & Spring Boot",
         "DataBase & SQL", 
@@ -35,8 +35,8 @@ const mauroDeLima = {
     ],
     paixões: [
         "Resolver problemas complexos",
-        "Criar soluções escaláveis",
-        "Mentoring outros devs",
+        "Make solutions escaláveis",
+        "Mentoring others devs",
         "Open Source"
     ],
     filosofia: "Code with purpose, learn continuously",
