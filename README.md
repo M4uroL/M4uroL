@@ -291,13 +291,6 @@ timeline
 
 ---
 
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/M4uroL/M4uroL/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:2196F3&height=120&section=footer"/>
   
