@@ -26,7 +26,7 @@
 const mauroDeLima = {
     location: "Luanda, Angola 🇦🇴",
     Age: 23,
-    education: "Engenharia Informática",
+    education: "Informatics Engineering",
     specialities: [
         "Java & Spring Boot",
         "DataBase & SQL", 
@@ -34,27 +34,27 @@ const mauroDeLima = {
         "System Architecture"
     ],
     passion: [
-        "Resolver problemas complexos",
+        "Solving Complex Problems",
         "Make scalable solutions",
         "Mentoring others devs",
         "Open Source"
     ],
     Philosophy: "Code with purpose, learn continuously",
     Goals: [
-        "Contribuir para projetos Open Source",
-        "Dominar arquiteturas de microsserviços",
-        "Expandir conhecimentos em AI/ML"
+        "Contribute to Open Source projects",
+Gain mastery in Microservices Architectures",
+"Deepen my understanding of Artificial Intelligence and Machine Learning"
     ],
     funFact: "Consumo mais café que água ☕",
     status: "Disponível para novas oportunidades! 🚀"
 };
 ```
 
-> *"A tecnologia move o mundo, mas são as pessoas que fazem a diferença."*
+> *"Technology moves the world, but it's people who make the difference."*
 
 ---
 
-## 🛠️ Arsenal Tecnológico
+## 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,angular,js,ts,python,html,css,bootstrap,tailwind,postgres,sqlite,aws,docker,git,github,vscode,idea&perline=10" />
@@ -110,17 +110,18 @@ const mauroDeLima = {
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">📱 AppToDo</h3>
+<h3 align="center">📱 Do List</h3>
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Todo App Demo"/>
   <br><br>
-  <strong>Lista de tarefas moderna e responsiva</strong>
+  <strong>Modern and Responsive To-Do List</strong>
   <br><br>
-  ✅ Interface intuitiva e design clean<br>
-  ✅ Funcionalidades avançadas de organização<br>
-  ✅ Responsivo para todos os dispositivos<br>
+ ✅ Intuitive interface and clean design<br>
+✅ Advanced organization features<br>
+✅ Responsive on all devices<br>
+
   <br>
-  <strong>Tech Stack:</strong> React, Tailwind CSS, Bootstrap
+  <strong>Tech Stack:</strong> React
   <br><br>
   <a href="https://github.com/maurochelsio/AppToDo">
     <img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -131,15 +132,16 @@ const mauroDeLima = {
 </div>
 </td>
 <td width="50%">
-<h3 align="center">🌐 Controle de Propinas</h3>
+<h3 align="center">Tuition Management</h3>
 <div align="center">
   <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="200" alt="Support System"/>
   <br><br>
-  <strong>Sistema de Gerenciamento de DB para Controle de Propinas</strong>
-  <br><br>
-  🎯 Flexível e robusto<br>
-  📊 Consultas automatizadas<br>
-  🔐 Sistema seguro <br>
+ <strong>Tuition Management DB System</strong>
+<br><br>
+🎯 Flexible and robust<br>
+📊 Automated queries<br>
+🔐 Secure system<br>
+
   <br>
   <strong>Tech Stack:</strong> SQL, MYSQL, PostreSQL 
   <br><br>
@@ -156,7 +158,7 @@ const mauroDeLima = {
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📊 My GitHub Statistics
 
 <!-- GIF de estatísticas/análise -->
 <div align="center">
@@ -176,7 +178,7 @@ const mauroDeLima = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=M4uroL&bg_color=0d1117&color=4CAF50&line=2196F3&point=FFD700&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
-## 🏆 Conquistas GitHub
+## 🏆 GitHub Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=M4uroL&theme=nord&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
@@ -184,7 +186,7 @@ const mauroDeLima = {
 
 ---
 
-## 🌱 Atualmente estudando
+## 🌱 Currently Learning
 
 <!-- GIF de aprendizado -->
 <div align="center">
@@ -201,7 +203,7 @@ const mauroDeLima = {
 
 ---
 
-## 💼 Experiência Profissional
+## 💼  Profissional Experience
 
 <!-- GIF de trabalho/escritório -->
 <p></p>
@@ -230,7 +232,7 @@ timeline
 
 ---
 
-## 📫 Vamos nos conectar!
+## 📫 Let's Connect!
 
 <!-- GIF de conexão/rede -->
 <div align="center">
@@ -257,7 +259,7 @@ timeline
 
 ---
 
-## ☕ Apoie meu trabalho
+## ☕ Support My Work
 
 <div align="center">
   <img src="https://media.giphy.com/media/3o7qDVHln5s9aZqs2k/giphy.gif" width="100" alt="Coffee"/>
