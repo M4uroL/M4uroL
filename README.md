@@ -100,7 +100,7 @@ const mauroDeLima = {
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Highlighted Projects
 
 <!-- GIF de projetos/desenvolvimento -->
 <div align="center">
@@ -270,7 +270,9 @@ timeline
 
 ---
 
-## 📝 Últimos Posts do Blog
+## 📝 Latest Blog Posts
+
+
 
 <!-- GIF de escrita/blog -->
 <div align="center">
@@ -278,9 +280,9 @@ timeline
 </div>
 
 <!-- BLOG-POST-LIST:START -->
-- [Como construir uma API REST com Spring Boot](https://yourblog.com/api-spring-boot)
-- [React Hooks: Guia Completo para Iniciantes](https://yourblog.com/react-hooks-guide)
-- [Microsserviços: Padrões e Práticas](https://yourblog.com/microservices-patterns)
+- [How to Build a REST API with Spring Boot](https://yourblog.com/api-spring-boot)
+- [Java: Complete Guide for Beginners](https://yourblog.com/react-hooks-guide)
+- [Microservices: Patterns and Practices](https://yourblog.com/microservices-patterns)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -297,11 +299,12 @@ timeline
   <!-- GIF de despedida -->
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" alt="Wave"/>
   
-  **💚 Feito com amor, dedicação e muito café ☕**
-  
-  *"O sucesso é a soma de pequenos esforços repetidos dia após dia."*
-  
-  ⭐ Se você gostou do meu trabalho, considere dar uma estrela nos repositórios!
+**💚 Made with love, dedication, and lots of coffee ☕**
+
+*"Success is the sum of small efforts repeated day in and day out."*
+
+⭐ If you liked my work, consider giving a star to my repositories!
+
   
   <img src="https://komarev.com/ghpvc/?username=M4uroL&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
