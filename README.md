@@ -33,14 +33,14 @@ const mauroDeLima = {
         "Full Stack Development",
         "System Architecture"
     ],
-    Passion: [
+    passion: [
         "Solving Complex Problems",
         "Make scalable solutions",
         "Mentoring others devs",
         "Open Source"
     ],
-    Philosophy: "Code with purpose, learn continuously",
-    Goals: [
+    philosophy: "Code with purpose, learn continuously",
+    goals: [
         "Contribute to Open Source projects",
         "Gain mastery in Microservices Architectures",
         "Deepen my understanding of Artificial Intelligence and Machine Learning"
