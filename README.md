@@ -33,7 +33,7 @@ const mauroDeLima = {
         "Full Stack Development",
         "System Architecture"
     ],
-    passion: [
+    Passion: [
         "Solving Complex Problems",
         "Make scalable solutions",
         "Mentoring others devs",
@@ -45,8 +45,8 @@ const mauroDeLima = {
 Gain mastery in Microservices Architectures",
 "Deepen my understanding of Artificial Intelligence and Machine Learning"
     ],
-    funFact: "Consumo mais café que água ☕",
-    status: "Disponível para novas oportunidades! 🚀"
+    funFact: "Consumo mais café que água ",
+    status: "Disponível para novas oportunidades! "
 };
 ```
 
@@ -54,7 +54,7 @@ Gain mastery in Microservices Architectures",
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,angular,js,ts,python,html,css,bootstrap,tailwind,postgres,sqlite,aws,docker,git,github,vscode,idea&perline=10" />
@@ -100,7 +100,7 @@ Gain mastery in Microservices Architectures",
 
 ---
 
-## 🚀 Highlighted Projects
+##  Highlighted Projects
 
 <!-- GIF de projetos/desenvolvimento -->
 <div align="center">
@@ -116,9 +116,9 @@ Gain mastery in Microservices Architectures",
   <br><br>
   <strong>Modern and Responsive To-Do List</strong>
   <br><br>
- ✅ Intuitive interface and clean design<br>
-✅ Advanced organization features<br>
-✅ Responsive on all devices<br>
+  Intuitive interface and clean design<br>
+ Advanced organization features<br>
+ Responsive on all devices<br>
 
   <br>
   <strong>Tech Stack:</strong> React
@@ -158,7 +158,7 @@ Gain mastery in Microservices Architectures",
 
 ---
 
-## 📊 My GitHub Statistics
+##  My GitHub Statistics
 
 <!-- GIF de estatísticas/análise -->
 <div align="center">
@@ -178,7 +178,7 @@ Gain mastery in Microservices Architectures",
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=M4uroL&bg_color=0d1117&color=4CAF50&line=2196F3&point=FFD700&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
-## 🏆 GitHub Achievements
+##  GitHub Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=M4uroL&theme=nord&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
@@ -186,7 +186,7 @@ Gain mastery in Microservices Architectures",
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 <!-- GIF de aprendizado -->
 <div align="center">
@@ -203,7 +203,7 @@ Gain mastery in Microservices Architectures",
 
 ---
 
-## 💼  Profissional Experience
+##   Profissional Experience
 
 <!-- GIF de trabalho/escritório -->
 <p></p>
@@ -232,7 +232,7 @@ timeline
 
 ---
 
-## 📫 Let's Connect!
+##  Let's Connect!
 
 <!-- GIF de conexão/rede -->
 <div align="center">
@@ -259,7 +259,7 @@ timeline
 
 ---
 
-## ☕ Support My Work
+##  Support My Work
 
 <div align="center">
   <img src="https://media.giphy.com/media/3o7qDVHln5s9aZqs2k/giphy.gif" width="100" alt="Coffee"/>
@@ -272,7 +272,7 @@ timeline
 
 ---
 
-## 📝 Latest Blog Posts
+##  Latest Blog Posts
 
 
 
@@ -297,6 +297,7 @@ timeline
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:2196F3&height=120&section=footer"/>
+  <br>
   
   <!-- GIF de despedida -->
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" alt="Wave"/>
@@ -305,7 +306,7 @@ timeline
 
 *"Success is the sum of small efforts repeated day in and day out."*
 
-⭐ If you liked my work, consider giving a star to my repositories!
+ If you liked my work, consider giving a star to my repositories!
 
   
   <img src="https://komarev.com/ghpvc/?username=M4uroL&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
