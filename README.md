@@ -42,8 +42,8 @@ const mauroDeLima = {
     Philosophy: "Code with purpose, learn continuously",
     Goals: [
         "Contribute to Open Source projects",
-Gain mastery in Microservices Architectures",
-"Deepen my understanding of Artificial Intelligence and Machine Learning"
+        "Gain mastery in Microservices Architectures",
+        "Deepen my understanding of Artificial Intelligence and Machine Learning"
     ],
     funFact: "Consumo mais café que água ",
     status: "Disponível para novas oportunidades! "
