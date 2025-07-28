@@ -264,7 +264,7 @@ timeline
 <div align="center">
   <img src="https://media.giphy.com/media/3o7qDVHln5s9aZqs2k/giphy.gif" width="100" alt="Coffee"/>
   <br>
-  <p><em>Se você gosta do meu trabalho, que tal me pagar um café? ☕</em></p>
+  <p><em>"If you like my work, how about buying me a coffee?" ☕</em></p>
   <a href="https://buymeacoffee.com/maurochelsio" target="_blank">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
   </a>
