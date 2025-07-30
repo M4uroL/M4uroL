@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:2196F3&height=200&section=header&text=Mauro%20de%20Lima&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20%20Software%20Developer&descAlignY=55&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:2196F3&height=200&section=header&text=Mauro%20de%20Lima&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20%20WEB%20Developer&descAlignY=55&descSize=20"/>
 </div>
 
 <!-- Foto Principal -->
 <div align="center">
   <img src="https://avatars.githubusercontent.com/M4uroL?s=150&v=4" alt="Mauro de Lima" style="border-radius: 50%; border: 4px solid #4CAF50; box-shadow: 0 8px 32px rgba(0,0,0,0.3);"/>
   <br><br>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Estudante+de+Engenharia+Informática;Full+Stack+Developer;Java+%26+Spring+Specialist;React+%26+Angular+Developer;Passionate+about+Technology;Always+Learning+New+Things&font=Fira%20Code&center=true&width=500&height=50&color=4CAF50&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Student+of+Informatics+Engineering;Full+Stack+Developer;Java+%26+Spring+Specialist;HTML+%26+CSS+JS+Developer;Passionate+about+Technology;Always+Learning+New+Things&font=Fira%20Code&center=true&width=500&height=50&color=4CAF50&vCenter=true&size=22">
 </div>
 
 <div align="center">
