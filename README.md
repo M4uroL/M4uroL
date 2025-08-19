@@ -1,4 +1,4 @@
-<div align="center">
+U<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:2196F3&height=200&section=header&text=Mauro%20de%20Lima&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20%20WEB%20Developer&descAlignY=55&descSize=20"/>
 </div>
 
@@ -295,6 +295,13 @@ timeline
 
 ---
 
+<div align="center">
+
+![Snake animation](https://github.com/M4uroL/M4uroL/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:2196F3&height=120&section=footer"/>
   <br>
