@@ -25,7 +25,6 @@
 ```javascript
 const mauroDeLima = {
     location: " Angola 🇦🇴",
-    Age: 23,
     education: "Informatics Engineering",
     specialities: [
         "Java & Spring Boot",
