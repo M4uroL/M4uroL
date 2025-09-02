@@ -289,15 +289,6 @@ timeline
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
-
----
-
-
-
-<div align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200"/>
-</div>
-
 ---
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:2196F3&height=120&section=footer"/>
@@ -306,6 +297,10 @@ timeline
   <!-- GIF de despedida -->
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" alt="Wave"/>
   
+<div align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200"/>
+</div>
+<br>
 **💚 Made with love, dedication, and lots of coffee ☕**
 
 *"Success is the sum of small efforts repeated day in and day out."*
