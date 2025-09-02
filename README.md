@@ -306,7 +306,7 @@ timeline
   
   <img src="https://komarev.com/ghpvc/?username=M4uroL&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
-
+<br>
 <div align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="100"/>
 </div>
