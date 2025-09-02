@@ -297,10 +297,6 @@ timeline
   <!-- GIF de despedida -->
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" alt="Wave"/>
   
-<div align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200"/>
-</div>
-<br>
 **💚 Made with love, dedication, and lots of coffee ☕**
 
 *"Success is the sum of small efforts repeated day in and day out."*
@@ -309,4 +305,8 @@ timeline
 
   
   <img src="https://komarev.com/ghpvc/?username=M4uroL&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="100"/>
 </div>
