@@ -214,18 +214,18 @@ const mauroDeLima = {
 
 ```mermaid
 timeline
-    title Jornada Profissional
-    2023 : Início na Programação
-         : Primeiros projetos em Java
-    2024 : Desenvolvimento Web
-         : HTML + CSS + JS
-    2022 : Java
-  4 2023 : Spring Boot
-    2023 : Engenharia de Software
-         : Arquitetura de Sistemas
-    2024 : Junior Developer
-         : Mentoring e Liderança
-    2025 : Próximos Desafios
+    title RoadMap Profissional
+    2023 : Start Programming
+         : Learning HTM + CSS + JS
+    2024 : Web Developer
+         : Learning SQL
+    2024 : Using MySQL and Postgre SQL
+    2024 : Learning Java + Spring Boot
+    2025 : Junior Web Developer
+         : Learning Bootstrap and Tailwind CSS
+    2025 : Learning Node.js + Angular + Vue + React
+         : Learning Python + Django
+    2025 : Focus on...
          : Full Stack Developer 
 ```
 
