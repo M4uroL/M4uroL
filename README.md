@@ -212,10 +212,24 @@ const mauroDeLima = {
 </div>
 
 
-```mermaid
-## timeline title RoadMap Profissional 2023 : Start Programming : Learning HTM + CSS + JS 2024 : Web Developer : Learning SQL 2024 : Using MySQL and Postgre SQL 2024 : Learning Java + Spring Boot 2025 : Junior Web Developer : Learning Bootstrap and Tailwind CSS 2025 : Learning Node.js + Angular + Vue + React : Learning Python + Django 2025 : Focus on... : Full Stack Developer
+## 📌 RoadMap Profissional  
 
-```
+```mermaid
+timeline
+    title RoadMap Profissional
+    section 2023
+      🚀 Start Programming : HTML + CSS + JavaScript
+    section 2024
+      🌐 Web Developer : SQL
+      🛢️ Databases : MySQL + PostgreSQL
+      ☕ Backend : Java + Spring Boot
+    section 2025
+      💻 Junior Web Developer : Bootstrap + Tailwind CSS
+      ⚡ Frontend Frameworks : Node.js + Angular + Vue + React
+      🐍 Backend Extra : Python + Django
+    section Futuro
+      🏆 Objetivo Final : Full Stack Developer
+
 
 ---
 
