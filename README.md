@@ -218,17 +218,17 @@ const mauroDeLima = {
 timeline
     title RoadMap Profissional
     section 2023
-      🚀 Start Programming : HTML + CSS + JavaScript
+      Start Programming : HTML + CSS + JavaScript
     section 2024
-      🌐 Web Developer : SQL
-      🛢️ Databases : MySQL + PostgreSQL
-      ☕ Backend : Java + Spring Boot
+      Web Developer : SQL
+      Databases : MySQL + PostgreSQL
+      Backend : Java + Spring Boot
     section 2025
-      💻 Junior Web Developer : Bootstrap + Tailwind CSS
-      ⚡ Frontend Frameworks : Node.js + Angular + Vue + React
-      🐍 Backend Extra : Python + Django
+      Junior Web Developer : Bootstrap + Tailwind CSS
+      Frontend Frameworks : Node.js + Angular + Vue + React
+      Backend Extra : Python + Django
     section Futuro
-      🏆 Objetivo Final : Full Stack Developer
+       Objetivo Final : Full Stack Developer
 ```
 
 ---
