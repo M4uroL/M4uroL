@@ -229,7 +229,7 @@ timeline
       🐍 Backend Extra : Python + Django
     section Futuro
       🏆 Objetivo Final : Full Stack Developer
-
+```
 
 ---
 
