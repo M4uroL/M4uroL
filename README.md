@@ -24,7 +24,7 @@
 
 ```javascript
 const mauroDeLima = {
-    location: " Angola 🇦🇴",
+    location: " Angola",
     education: "Informatics Engineering",
     specialities: [
         "Java & Spring Boot",
