@@ -6,7 +6,7 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/M4uroL?s=150&v=4" alt="Mauro de Lima" style="border-radius: 50%; border: 4px solid #4CAF50; box-shadow: 0 8px 32px rgba(0,0,0,0.3);"/>
   <br><br>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Student+of+Informatics+Engineering;Full+Stack+Developer;Java and Sprng+%26+Data Base+Python and FlaskAPI;HTML+%26+CSS+JS+Developer;Passionate+about+Technology;Always+Learning+New+Things&font=Fira%20Code&center=true&width=500&height=50&color=4CAF50&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Student+of+Informatics+Engineering;Full+Stack+Developer;Java+%26+Data Base+Python;%26+Web+Developer;Passionate+about+Technology;Always+Learning+New+Things&font=Fira%20Code&center=true&width=500&height=50&color=4CAF50&vCenter=true&size=22">
 </div>
 
 <div align="center">
