@@ -27,7 +27,7 @@ const mauroDeLima = {
     location: " Angola",
     education: "Informatics Engineering",
     specialities: [
-        "Java & Spring Boot",
+        "Web Development",
         "DataBase & SQL", 
         "Full Stack Development",
         "System Architecture"
