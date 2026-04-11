@@ -29,8 +29,7 @@ const mauroDeLima = {
     specialities: [
         "Web Development",
         "DataBase & SQL", 
-        "Full Stack Development",
-        "System Architecture"
+        "Full Stack Development"
     ],
     passion: [
         "Solving Complex Problems",
