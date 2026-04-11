@@ -35,7 +35,7 @@ const mauroDeLima = {
     passion: [
         "Solving Complex Problems",
         "Make scalable solutions",
-        "Mentoring others devs",
+        "I love Linux OS″,
         "Open Source"
     ],
     philosophy: "Code with purpose, learn continuously",
