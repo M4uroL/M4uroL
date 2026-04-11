@@ -45,7 +45,7 @@ const mauroDeLima = {
         "Deepen my understanding of Artificial Intelligence and Machine Learning"
     ],
     funFact: "Consumo mais café que água ",
-    status: "Open to work! "
+    status: "Open to work with you! "
 };
 ```
 
