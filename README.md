@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:2196F3&height=200&section=header&text=Mauro%20de%20Lima&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&[...]
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:2196F3&height=200&section=header&text=Mauro%20de%20Lima&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&" width="100%" />
 </div>
 
 <!-- Foto Principal -->
 <div align="center">
   <img src="https://avatars.githubusercontent.com/M4uroL?s=150&v=4" alt="Mauro de Lima" style="border-radius: 50%; border: 4px solid #4CAF50; box-shadow: 0 8px 32px rgba(0,0,0,0.3);"/>
   <br><br>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Student+of+Informatics+Engineering;Full+Stack+Developer;Java+%26+Data Base+Python;%26+Web+Developer;Passionate+about+Technology;Always+Lea[...]
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Student+of+Informatics+Engineering;Full+Stack+Developer;Java+%26+Data Base+Python;%26+Web+Developer;Passionate+about+Technology;Always+Learning&font=Fira+Code&center=true&width=500&height=45&color=4CAF50&vCenter=true&size=22&duration=4000&pause=1000" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -104,100 +104,93 @@ const mauroDeLima = {
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" alt="Developing"/>
 </div>
 
-<table>
-<tr>
-<td width="50%">
+<div style="display: flex; overflow-x: auto; gap: 20px; padding: 20px; scroll-behavior: smooth; -webkit-overflow-scrolling: touch;">
+
+<div style="flex-shrink: 0; width: 300px; border: 1px solid #30363d; border-radius: 10px; padding: 20px; background: #0d1117; box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
 <h3 align="center">📱 Do List</h3>
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Todo App Demo"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" alt="Todo App Demo" style="border-radius: 8px;"/>
   <br><br>
-  <strong>Modern and Responsive To-Do List</strong>
+  <strong style="color: #58a6ff;">Modern and Responsive To-Do List</strong>
   <br><br>
-  Intuitive interface and clean design<br>
- Advanced organization features<br>
- Responsive on all devices<br>
-
-  <br>
-  <strong>Tech Stack:</strong> React
-  <br><br>
-  <a href="https://github.com/maurochelsio/AppToDo">
-    <img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+  <p style="color: #8b949e; font-size: 14px;">
+    ✓ Intuitive interface<br>
+    ✓ Advanced features<br>
+    ✓ Responsive design<br>
+  </p>
+  <p><strong style="color: #79c0ff;">Tech:</strong> React</p>
+  <p>
+    <a href="https://github.com/maurochelsio/AppToDo">
+      <img src="https://img.shields.io/badge/Código-181717?style=flat&logo=github&logoColor=white"/>
+    </a>
+  </p>
 </div>
-</td>
-<td width="50%">
-<h3 align="center">Tuition Management</h3>
+</div>
+
+<div style="flex-shrink: 0; width: 300px; border: 1px solid #30363d; border-radius: 10px; padding: 20px; background: #0d1117; box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
+<h3 align="center">💾 Tuition Management</h3>
 <div align="center">
-  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="200" alt="Support System"/>
+  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="100%" alt="Support System" style="border-radius: 8px;"/>
   <br><br>
- <strong>Tuition Management DB System</strong>
-<br><br>
-🎯 Flexible and robust<br>
-📊 Automated queries<br>
-🔐 Secure system<br>
-
-  <br>
-  <strong>Tech Stack:</strong> SQL, MYSQL, PostreSQL 
+  <strong style="color: #58a6ff;">Tuition Management DB System</strong>
   <br><br>
-  <a href="https://github.com/maurochelsio/helpdesk-system">
-    <img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+  <p style="color: #8b949e; font-size: 14px;">
+    🎯 Flexible & robust<br>
+    📊 Automated queries<br>
+    🔐 Secure system<br>
+  </p>
+  <p><strong style="color: #79c0ff;">Tech:</strong> SQL, MySQL, PostgreSQL</p>
+  <p>
+    <a href="https://github.com/maurochelsio/helpdesk-system">
+      <img src="https://img.shields.io/badge/Código-181717?style=flat&logo=github&logoColor=white"/>
+    </a>
+  </p>
 </div>
-</td>
-</tr>
-<tr>
-<td width="50%">
+</div>
+
+<div style="flex-shrink: 0; width: 300px; border: 1px solid #30363d; border-radius: 10px; padding: 20px; background: #0d1117; box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
 <h3 align="center">🚀 MVP Project</h3>
 <div align="center">
-  <img src="https://media.giphy.com/media/g9GUuK15OVOKeisha69/giphy.gif" width="200" alt="MVP Development"/>
+  <img src="https://media.giphy.com/media/g9GUuK15OVOKeisha69/giphy.gif" width="100%" alt="MVP Development" style="border-radius: 8px;"/>
   <br><br>
- <strong>Minimum Viable Product Development</strong>
-<br><br>
-⚡ Fast deployment<br>
-📈 Scalable architecture<br>
-🎯 Focused features<br>
-
-  <br>
-  <strong>Tech Stack:</strong> Full Stack Development 
+  <strong style="color: #58a6ff;">Minimum Viable Product Development</strong>
   <br><br>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Demo-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white"/>
-  </a>
+  <p style="color: #8b949e; font-size: 14px;">
+    ⚡ Fast deployment<br>
+    📈 Scalable architecture<br>
+    🎯 Focused features<br>
+  </p>
+  <p><strong style="color: #79c0ff;">Tech:</strong> Full Stack Development</p>
+  <p>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Código-181717?style=flat&logo=github&logoColor=white"/>
+    </a>
+  </p>
 </div>
-</td>
-<td width="50%">
+</div>
+
+<div style="flex-shrink: 0; width: 300px; border: 1px solid #30363d; border-radius: 10px; padding: 20px; background: #0d1117; box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
 <h3 align="center">🛒 E-Commerce Platform</h3>
 <div align="center">
-  <img src="https://media.giphy.com/media/26uf1EUQzrQ3wMbBi/giphy.gif" width="200" alt="E-Commerce"/>
+  <img src="https://media.giphy.com/media/26uf1EUQzrQ3wMbBi/giphy.gif" width="100%" alt="E-Commerce" style="border-radius: 8px;"/>
   <br><br>
- <strong>Complete E-Commerce Solution</strong>
-<br><br>
-💳 Secure payments<br>
-📦 Product management<br>
-👥 User authentication<br>
-
-  <br>
-  <strong>Tech Stack:</strong> React, Node.js, PostgreSQL
+  <strong style="color: #58a6ff;">Complete E-Commerce Solution</strong>
   <br><br>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Demo-00D084?style=for-the-badge&logo=shopify&logoColor=white"/>
-  </a>
+  <p style="color: #8b949e; font-size: 14px;">
+    💳 Secure payments<br>
+    📦 Product management<br>
+    👥 User authentication<br>
+  </p>
+  <p><strong style="color: #79c0ff;">Tech:</strong> React, Node.js, PostgreSQL</p>
+  <p>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Código-181717?style=flat&logo=github&logoColor=white"/>
+    </a>
+  </p>
 </div>
-</td>
-</tr>
-</table>
+</div>
+
+</div>
 
 ---
 
@@ -209,12 +202,12 @@ const mauroDeLima = {
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M4uroL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117[...]
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4uroL&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4CAF50&[...]
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M4uroL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4CAF50&icon_color=2196F3&text_color=c9d1d9&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4uroL&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4CAF50&text_color=c9d1d9&border_radius=10" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M4uroL&theme=tokyonight&hide_border=true&background=0d1117&stroke=4CAF50&ring=2196F3&fire=FFD700&currStreakLabel=c9d1d9" alt="Gi[...]
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M4uroL&theme=tokyonight&hide_border=true&background=0d1117&stroke=4CAF50&ring=2196F3&fire=FFD700&currStreakLabel=c9d1d9" alt="GitHub Streak Stats"/>
 </div>
 
 <div align="center">
