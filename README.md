@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:2196F3&height=200&section=header&text=Mauro%20de%20Lima&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20%20WEB%20Developer&descAlignY=55&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:2196F3&height=200&section=header&text=Mauro%20de%20Lima&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&[...]
 </div>
 
 <!-- Foto Principal -->
 <div align="center">
   <img src="https://avatars.githubusercontent.com/M4uroL?s=150&v=4" alt="Mauro de Lima" style="border-radius: 50%; border: 4px solid #4CAF50; box-shadow: 0 8px 32px rgba(0,0,0,0.3);"/>
   <br><br>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Student+of+Informatics+Engineering;Full+Stack+Developer;Java+%26+Data Base+Python;%26+Web+Developer;Passionate+about+Technology;Always+Learning+New+Things&font=Fira%20Code&center=true&width=500&height=50&color=4CAF50&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Student+of+Informatics+Engineering;Full+Stack+Developer;Java+%26+Data Base+Python;%26+Web+Developer;Passionate+about+Technology;Always+Lea[...]
 </div>
 
 <div align="center">
@@ -151,6 +151,52 @@ const mauroDeLima = {
 </div>
 </td>
 </tr>
+<tr>
+<td width="50%">
+<h3 align="center">🚀 MVP Project</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/g9GUuK15OVOKeisha69/giphy.gif" width="200" alt="MVP Development"/>
+  <br><br>
+ <strong>Minimum Viable Product Development</strong>
+<br><br>
+⚡ Fast deployment<br>
+📈 Scalable architecture<br>
+🎯 Focused features<br>
+
+  <br>
+  <strong>Tech Stack:</strong> Full Stack Development 
+  <br><br>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Demo-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white"/>
+  </a>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">🛒 E-Commerce Platform</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/26uf1EUQzrQ3wMbBi/giphy.gif" width="200" alt="E-Commerce"/>
+  <br><br>
+ <strong>Complete E-Commerce Solution</strong>
+<br><br>
+💳 Secure payments<br>
+📦 Product management<br>
+👥 User authentication<br>
+
+  <br>
+  <strong>Tech Stack:</strong> React, Node.js, PostgreSQL
+  <br><br>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Demo-00D084?style=for-the-badge&logo=shopify&logoColor=white"/>
+  </a>
+</div>
+</td>
+</tr>
 </table>
 
 ---
@@ -163,12 +209,12 @@ const mauroDeLima = {
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M4uroL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4CAF50&icon_color=2196F3&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4uroL&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4CAF50&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M4uroL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117[...]
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4uroL&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4CAF50&[...]
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M4uroL&theme=tokyonight&hide_border=true&background=0d1117&stroke=4CAF50&ring=2196F3&fire=FFD700&currStreakLabel=c9d1d9" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M4uroL&theme=tokyonight&hide_border=true&background=0d1117&stroke=4CAF50&ring=2196F3&fire=FFD700&currStreakLabel=c9d1d9" alt="Gi[...]
 </div>
 
 <div align="center">
