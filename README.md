@@ -27,7 +27,7 @@ Informatics Engineering student from Angola skilled in Web Development, database
 Passionate about solving complex problems, building scalable systems, and open-source contribution. 
 Currently mastering microservices and AI/ML. **Code with purpose, learn continuously.**
 
-<div align="center">
+<div align="">
   <img src="https://media.giphy.com/media/3o6ZtpgLSXf0TEqhne/giphy.gif" alt="Looking down" width="200">
 </div>
 
