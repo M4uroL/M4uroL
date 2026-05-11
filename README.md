@@ -6,7 +6,7 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/M4uroL?s=150&v=4" alt="Mauro de Lima" style="border-radius: 50%; border: 4px solid #4CAF50; box-shadow: 0 8px 32px rgba(0,0,0,0.3);"/>
   <br><br>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Student+of+Informatics+Engineering;Full+Stack+Developer;Java+%26+Data Base+Python;%26+Web+Developer;Passionate+about+Technology;Always+Learni[...]
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Student+of+Informatics+Engineering;Full+Stack+Developer;Java+%26+Spring Boot+Python;%26+Web+Developer;Passionate+about+Technology;Always+Learning[...]
 </div>
 
 <div align="center">
@@ -28,11 +28,11 @@ public class MauroDeLima {
     public MauroDeLima() {
         System.out.println(new Record(
             "Angola", "Informatics Engineering",
-            List.of("Web Development", "DataBase & SQL", "Full Stack Development"),
-            List.of("Solving Complex Problems", "Make scalable solutions", "I love Linux OS", "Open Source"),
+            List.of("Web Development", "DataBase & SQL", "Full Stack"),
+            List.of("Solving Complex Problems", "Make scalable solutions", " Linux OS", "Open Source"),
             "Code with purpose, learn continuously",
-            List.of("Contribute to Open Source", "Gain mastery in Microservices", "Deepen AI/ML"),
-            "Consumo mais café que água", "Open to work with you!"
+            List.of("Contribute to Open Source", "Gain mastery in Microservices", "AI/ML"),
+ "Open to work with you!"
         ));
     }
 
