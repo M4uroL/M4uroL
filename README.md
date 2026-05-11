@@ -22,27 +22,6 @@
 
 ### About me
 
-from dataclasses import dataclass
-
-@dataclass
-class Profile:
-    
-    location: str = "Angola"
-    education: str = "Informatics Engineering"
-    skills: list = None
-    passion: list = None
-    philosophy: str = "Code with purpose, learn continuously"
-    goals: list = None
-    status: str = "Open to work with you!"
-    
-profile = Profile(
-    
-    skills=["Web Development", "DataBase & SQL", "Full Stack"],
-    passion=["Solving Complex Problems", "Make scalable solutions", "Linux OS", "Open Source"],
-    goals=["Contribute to Open Source", "Gain mastery in Microservices", "AI/ML"]
-    )
-    print(profile)
-
 
 ---
 
