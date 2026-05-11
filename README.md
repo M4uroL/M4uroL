@@ -23,6 +23,12 @@
 ### About me
 
 
+Informatics Engineering student from Angola skilled in Web Development, databases, and full-stack solutions. 
+Passionate about solving complex problems, building scalable systems, and open-source contribution. 
+Currently mastering microservices and AI/ML. **Code with purpose, learn continuously.**
+
+
+
 ---
 
 ##  Tech Stack
