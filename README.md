@@ -19,7 +19,7 @@
 
 <!-- GIF de Programador mais moderno -->
 <img align="right" alt="Coding GIF" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
+<br>
 ### About me
 
 import java.util.List;
