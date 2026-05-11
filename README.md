@@ -22,31 +22,72 @@
 
 ### About me
 
-```javascript
-const mauroDeLima = {
-    location: " Angola",
-    education: "Informatics Engineering",
-    specialities: [
-        "Web Development",
-        "DataBase & SQL", 
-        "Full Stack Development"
-    ],
-    passion: [
-        "Solving Complex Problems",
-        "Make scalable solutions",
-        "I love Linux OS″,
-        "Open Source"
-    ],
-    philosophy: "Code with purpose, learn continuously",
-    goals: [
-        "Contribute to Open Source projects",
-        "Gain mastery in Microservices Architectures",
-        "Deepen my understanding of Artificial Intelligence and Machine Learning"
-    ],
-    funFact: "Consumo mais café que água ",
-    status: "Open to work with you! "
-};
-```
+import java.util.List;
+
+public class MauroDeLima {
+
+    private String location;
+    private String education;
+    private List<String> specialities;
+    private List<String> passion;
+    private String philosophy;
+    private List<String> goals;
+    private String funFact;
+    private String status;
+
+    public MauroDeLima() {
+        this.location = "Angola";
+        this.education = "Informatics Engineering";
+        this.specialities = List.of(
+            "Web Development",
+            "DataBase & SQL",
+            "Full Stack Development"
+        );
+        this.passion = List.of(
+            "Solving Complex Problems",
+            "Make scalable solutions",
+            "I love Linux OS",
+            "Open Source"
+        );
+        this.philosophy = "Code with purpose, learn continuously";
+        this.goals = List.of(
+            "Contribute to Open Source projects",
+            "Gain mastery in Microservices Architectures",
+            "Deepen my understanding of Artificial Intelligence and Machine Learning"
+        );
+        this.funFact = "Consumo mais café que água";
+        this.status = "Open to work with you!";
+    }
+
+    // Getters
+    public String getLocation()        { return location; }
+    public String getEducation()       { return education; }
+    public List<String> getSpecialities() { return specialities; }
+    public List<String> getPassion()   { return passion; }
+    public String getPhilosophy()      { return philosophy; }
+    public List<String> getGoals()     { return goals; }
+    public String getFunFact()         { return funFact; }
+    public String getStatus()          { return status; }
+
+    @Override
+    public String toString() {
+        return "MauroDeLima {" +
+            "\n  location='"     + location     + "'" +
+            "\n  education='"    + education    + "'" +
+            "\n  specialities="  + specialities +
+            "\n  passion="       + passion      +
+            "\n  philosophy='"   + philosophy   + "'" +
+            "\n  goals="         + goals        +
+            "\n  funFact='"      + funFact      + "'" +
+            "\n  status='"       + status       + "'" +
+            "\n}";
+    }
+
+    public static void main(String[] args) {
+        MauroDeLima mauroDeLima = new MauroDeLima();
+        System.out.println(mauroDeLima);
+    }
+}
 
 > *"Technology moves the world, but it's people who make the difference."*
 
