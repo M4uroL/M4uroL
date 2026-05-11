@@ -46,7 +46,7 @@ public class MauroDeLima {
 ##  Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mongodb,tailwindcss,linux,python,pycharm,html,css,bootstrap,tailwind,postgres,sqlite,aws,docker,git,github,vscode,idea&perline=10" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mongodb,flask,linux,python,pycharm,html,css,bootstrap,tailwind,postgres,mysql,aws,docker,git,github,vscode,idea&perline=10" />
 </div>
 
 <!-- GIF de tecnologias -->
