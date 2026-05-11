@@ -22,10 +22,6 @@
 
 ### About me
 
-<br>
-
-import java.util.List;
-
 public class MauroDeLima {
     
     public static void main(String[] args) {
@@ -53,7 +49,7 @@ public class MauroDeLima {
 <!-- GIF de tecnologias -->
 <div align="center">
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="50" alt="Python"/>
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50" alt="React"/>
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50" alt="Linux"/>
   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50" alt="HTML"/>
   <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50" alt="CSS"/>
   
