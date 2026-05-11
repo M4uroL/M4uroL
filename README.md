@@ -31,8 +31,7 @@ public class MauroDeLima {
       List.of("Web Development", "DataBase & SQL", "Full Stack"),
       List.of("Solving Complex Problems", "Make scalable solutions", " Linux OS", "Open Source"),
       "Code with purpose, learn continuously",
-      List.of("Contribute to Open Source", "Gain mastery in Microservices", "AI/ML"),"Open to work with you!"
-        ));
+      List.of("Contribute to Open Source", "Gain mastery in Microservices", "AI/ML"),"Open to work with you!"));
     }
 
     record Record(String location, String education, List<String> specialities, 
@@ -47,7 +46,7 @@ public class MauroDeLima {
 ##  Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,angular,js,python,html,css,bootstrap,tailwind,postgres,sqlite,aws,docker,git,github,vscode,idea&perline=10" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,angular,linux,python,pyvharm,html,css,bootstrap,tailwind,postgres,sqlite,aws,docker,git,github,vscode,idea&perline=10" />
 </div>
 
 <!-- GIF de tecnologias -->
