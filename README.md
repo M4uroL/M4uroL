@@ -27,17 +27,14 @@ Informatics Engineering student from Angola skilled in Web Development, database
 Passionate about solving complex problems, building scalable systems, and open-source contribution. 
 Currently mastering microservices and AI/ML. **Code with purpose, learn continuously.**
 
-<!-- Apontando para baixo -->
-![Pointing down](https://media.giphy.com/media/l3q2K6YQU6Oh7L4Hs/giphy.gif)
+<!-- Pessoa apontando para baixo -->
+![Down](https://media.giphy.com/media/l0IypeKl9NJhPXtZm/giphy.gif)
 
-<!-- Personagem apontando -->
-![Character pointing](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+<!-- Animação apontando -->
+![Arrow down](https://media.giphy.com/media/l3q2K6YQU6Oh7L4Hs/giphy.gif)
 
-<!-- Boneco apontando para baixo -->
-![Pointing](https://media.giphy.com/media/l0HlDtKo5l373ukgY/giphy.gif)
-
-<!-- Olhando para baixo com interesse -->
-![Looking down](https://media.giphy.com/media/l0HlRnAQ7KWI3BlhO/giphy.gif)
+<!-- Boneco olhando para baixo -->
+![Looking](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 
 ---
