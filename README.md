@@ -27,6 +27,7 @@
 import java.util.List;
 
 public class MauroDeLima {
+    
     public static void main(String[] args) {
         var profile = new Object() {
             String location = "Angola";
@@ -38,8 +39,8 @@ public class MauroDeLima {
             String status = "Open to work with you!";
         };
         System.out.println(profile);
+      }
     }
-}
 
 ---
 
