@@ -27,22 +27,19 @@
 import java.util.List;
 
 public class MauroDeLima {
-   
-    public MauroDeLima() {
-      System.out.println(new Record("Angola", "Informatics Engineering",    
-      
-      List.of("Web Development", "DataBase & SQL", "Full Stack"),
-      List.of("Solving Complex Problems", "Make scalable solutions", " Linux OS", "Open Source"),
-      "Code with purpose, learn continuously",
-      List.of("Contribute to Open Source", "Gain mastery in Microservices", "AI/ML"),"Open to work with you!"));
+    public static void main(String[] args) {
+        var profile = new Object() {
+            String location = "Angola";
+            String education = "Informatics Engineering";
+            List<String> skills = List.of("Web Development", "DataBase & SQL", "Full Stack");
+            List<String> passion = List.of("Solving Complex Problems", "Make scalable solutions", "Linux OS", "Open Source");
+            String philosophy = "Code with purpose, learn continuously";
+            List<String> goals = List.of("Contribute to Open Source", "Gain mastery in Microservices", "AI/ML");
+            String status = "Open to work with you!";
+        };
+        System.out.println(profile);
     }
-
-    record Record(String location, String education, List<String> specialities, 
-                  List<String> passion, String philosophy, List<String> goals, 
-                  String funFact, String status) {}
-
-    public static void main(String[] args) { new MauroDeLima(); }
-    }
+}
 
 ---
 
