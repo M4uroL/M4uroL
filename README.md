@@ -19,14 +19,17 @@
 
 <!-- GIF de Programador mais moderno -->
 <img align="right" alt="Coding GIF" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-<br>
+
 ### About me
+
+<br>
 
 import java.util.List;
 
 public class MauroDeLima {
+   
     public MauroDeLima() {
-     System.out.println(new Record("Angola", "Informatics Engineering",    
+      System.out.println(new Record("Angola", "Informatics Engineering",    
       
       List.of("Web Development", "DataBase & SQL", "Full Stack"),
       List.of("Solving Complex Problems", "Make scalable solutions", " Linux OS", "Open Source"),
