@@ -18,7 +18,7 @@
 ---
 
 <!-- GIF de Programador mais moderno -->
-<img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding GIF" width="500" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### About me
 
