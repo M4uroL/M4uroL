@@ -22,19 +22,17 @@
 
 ### About me
 
+<p align="left">
+  🇦🇴 <strong>Informatics Engineering</strong> student from Angola skilled in <strong>Web Development</strong>, <strong>databases</strong>, and <strong>full-stack solutions</strong>. 
+  <br>
+  🚀 Passionate about solving <strong>complex problems</strong>, building <strong>scalable systems</strong>, and <strong>open-source contribution</strong>. 
+  <br>
+  🎯 Currently mastering <strong>microservices</strong> and <strong>AI/ML</strong>. 
+  <br>
+  💡 <em>Code with purpose, learn continuously.</em>
+</p>
 
-Informatics Engineering student from Angola skilled in Web Development, databases, and full-stack solutions. 
-Passionate about solving complex problems, building scalable systems, and open-source contribution. 
-Currently mastering microservices and AI/ML. **Code with purpose, learn continuously.**
 
-<!-- Pessoa apontando para baixo -->
-![Down](https://media.giphy.com/media/l0IypeKl9NJhPXtZm/giphy.gif)
-
-<!-- Animação apontando -->
-![Arrow down](https://media.giphy.com/media/l3q2K6YQU6Oh7L4Hs/giphy.gif)
-
-<!-- Boneco olhando para baixo -->
-![Looking](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 
 ---
