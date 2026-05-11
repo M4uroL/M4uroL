@@ -22,10 +22,13 @@
 
 ### About me
 
+
 <p align="left">
-  🇦🇴 <strong>Informatics Engineering</strong> student from Angola skilled in <strong>Web Development</strong>, <strong>databases</strong>, and <strong>full-stack solutions</strong>. 
+  🇦🇴 <strong>Informatics Engineering</strong> from Angola skilled in <strong>Web Development using java and python</strong>, <strong>Databases</strong>, and <strong>full-stack solutions</strong>. 
+  
   <br>
   🚀 Passionate about solving <strong>complex problems</strong>, building <strong>scalable systems</strong>, and <strong>open-source contribution</strong>. 
+  
   <br>
   🎯 Currently mastering <strong>microservices</strong> and <strong>AI/ML</strong>. 
   <br>
