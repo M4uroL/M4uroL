@@ -18,25 +18,31 @@
 ---
 
 <!-- GIF de Programador mais moderno -->
-<img align="right" alt="Coding GIF" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding GIF" width="600" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### About me
 
-public class MauroDeLima {
+from dataclasses import dataclass
+
+@dataclass
+class Profile:
     
-    public static void main(String[] args) {
-        var profile = new Object() {
-            String location = "Angola";
-            String education = "Informatics Engineering";
-            List<String> skills = List.of("Web Development", "DataBase & SQL", "Full Stack");
-            List<String> passion = List.of("Solving Complex Problems", "Make scalable solutions", "Linux OS", "Open Source");
-            String philosophy = "Code with purpose, learn continuously";
-            List<String> goals = List.of("Contribute to Open Source", "Gain mastery in Microservices", "AI/ML");
-            String status = "Open to work with you!";
-        };
-        System.out.println(profile);
-      }
-    }
+    location: str = "Angola"
+    education: str = "Informatics Engineering"
+    skills: list = None
+    passion: list = None
+    philosophy: str = "Code with purpose, learn continuously"
+    goals: list = None
+    status: str = "Open to work with you!"
+    
+profile = Profile(
+    
+    skills=["Web Development", "DataBase & SQL", "Full Stack"],
+    passion=["Solving Complex Problems", "Make scalable solutions", "Linux OS", "Open Source"],
+    goals=["Contribute to Open Source", "Gain mastery in Microservices", "AI/ML"]
+    )
+    print(profile)
+
 
 ---
 
