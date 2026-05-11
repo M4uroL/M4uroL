@@ -30,6 +30,15 @@ Currently mastering microservices and AI/ML. **Code with purpose, learn continuo
 <div align="">
   <img src="https://media.giphy.com/media/3o6ZtpgLSXf0TEqhne/giphy.gif" alt="Looking down" width="200">
 </div>
+<!-- Olhando para baixo pensativo -->
+![Looking down](https://media.giphy.com/media/l0HlNaQ9OM5eAjyFi/giphy.gif)
+
+<!-- Concentração -->
+![Focused](https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif)
+
+<!-- Estudando/Codificando -->
+![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+
 
 
 ---
