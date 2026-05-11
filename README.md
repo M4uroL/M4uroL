@@ -26,13 +26,12 @@ import java.util.List;
 
 public class MauroDeLima {
     public MauroDeLima() {
-        System.out.println(new Record(
-            "Angola", "Informatics Engineering",
-            List.of("Web Development", "DataBase & SQL", "Full Stack"),
-            List.of("Solving Complex Problems", "Make scalable solutions", " Linux OS", "Open Source"),
-            "Code with purpose, learn continuously",
-            List.of("Contribute to Open Source", "Gain mastery in Microservices", "AI/ML"),
- "Open to work with you!"
+     System.out.println(new Record("Angola", "Informatics Engineering",    
+      
+      List.of("Web Development", "DataBase & SQL", "Full Stack"),
+      List.of("Solving Complex Problems", "Make scalable solutions", " Linux OS", "Open Source"),
+      "Code with purpose, learn continuously",
+      List.of("Contribute to Open Source", "Gain mastery in Microservices", "AI/ML"),"Open to work with you!"
         ));
     }
 
@@ -41,7 +40,7 @@ public class MauroDeLima {
                   String funFact, String status) {}
 
     public static void main(String[] args) { new MauroDeLima(); }
-}
+    }
 
 ---
 
