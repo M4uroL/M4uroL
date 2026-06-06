@@ -43,7 +43,7 @@
 ##  Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mongodb,flask,linux,python,pycharm,html,css,bootstrap,tailwind,postgres,mysql,aws,docker,git,github,vscode,idea&perline=15" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mongodb,flask,linux,python,pycharm,html,css,bootstrap,tailwind,postgres,mysql,aws,docker,git,github,vscode,idea&perline=10" />
 </div>
 
 <!-- GIF de tecnologias -->
