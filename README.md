@@ -1,251 +1,76 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:2196F3&height=200&section=header&text=Mauro%20de%20Lima&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&" w[...]
-</div>
 
-<!-- Foto Principal -->
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/M4uroL?s=150&v=4" alt="Mauro de Lima" style="border-radius: 50%; border: 4px solid #4CAF50; box-shadow: 0 8px 32px rgba(0,0,0,0.3);"/>
-  <br><br>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Student+of+Informatics+Engineering;Full+Stack+Developer;Java+%26+Spring Boot+Python;%26+Web+Developer;Passionate+about+Technology;Always+Learning[...]
-</div>
+# Mauro de Lima
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=M4uroL&color=4CAF50&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/M4uroL?label=Seguidores&style=for-the-badge&color=2196F3" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/M4uroL?label=Total%20Stars&style=for-the-badge&color=FFD700" alt="GitHub stars" />
-</div>
+**Backend Developer · Java & Spring Boot**
+**Founder, [Kambas do Java](#kambas-do-java--luanda-jug) — Luanda Java User Group**
 
----
+Luanda, Angola 🇦🇴 · Portuguese & English
 
-<!-- GIF de Programador mais moderno -->
-<img align="right" alt="Coding GIF" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+[LinkedIn](https://www.linkedin.com/in/mauro-de-lima-1212712b1/) ·
+[X / Twitter](https://x.com/maurochelsio) ·
+[Email](mailto:maurochelsio@gmail.com)
 
-### About me
-
-
-<p align="left">
-  🇦🇴 <strong>Informatics Engineering</strong> from Angola skilled in <strong>Web Development using java and python</strong>, <strong>Databases</strong>, and <strong>full-stack solutions</strong>. 
-  
-  <br>
-  🚀 Passionate about solving <strong>complex problems</strong>, building <strong>scalable systems</strong>, and <strong>open-source contribution</strong>. 
-  
-  <br>
-  🎯 Currently mastering <strong>microservices</strong> and <strong>AI/ML</strong>. 
-  <br>
-  💡 <em>Code with purpose, learn continuously.</em>
-</p>
-<br><br>
-
-
-
----
-
-##  Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mongodb,flask,linux,python,pycharm,html,css,bootstrap,tailwind,postgres,mysql,aws,docker,git,github,vscode,idea&perline=10" />
-</div>
-
-<!-- GIF de tecnologias -->
-<div align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="50" alt="Python"/>
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50" alt="Linux"/>
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50" alt="Quarkus"/>
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50" alt="CSS"/>
-  
-</div>
-
-### **Backend Development**
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
-
-### **Frontend Development**
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</p>
-
-### **Database & Cloud**
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Logo" width="170"/>
-</p>
-
----
-
-##  Highlighted Projects
-
-| 📱 | 💾 | 🚀 |
-|:---:|:---:|:---:|
-| **Do List** | **Tuition Management** | **MVP Project** |
-| Modern To-Do app | Database System | Full Stack MVP |
-| [Repository →](https://github.com/maurochelsio/AppToDo) | [Repository →](https://github.com/maurochelsio/helpdesk-system) | [Repository →](#) |
-| **Tech:** React | **Tech:** SQL, MySQL, PostgreSQL | **Tech:** Full Stack |
-
----
-
-##  My GitHub Statistics
-
-<!-- GIF de estatísticas/análise -->
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100" alt="Analytics"/>
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M4uroL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&titl[...]
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4uroL&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4CAF50&text_[...]
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M4uroL&theme=tokyonight&hide_border=true&background=0d1117&stroke=4CAF50&ring=2196F3&fire=FFD700&currStreakLabel=c9d1d9" alt="GitHub [...]
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M4uroL&bg_color=0d1117&color=4CAF50&line=2196F3&point=FFD700&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
-
-##  GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=M4uroL&theme=nord&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
 
-##  Currently Learning
+## About
 
-<!-- GIF de aprendizado -->
-<div align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" alt="Learning"/>
-</div>
+I build backend-focused web applications with **Java and Spring Boot**, plus **Python and Flask**, and I'm an Informatics Engineering student who also teaches. Right now I'm going deeper into microservices, Kubernetes and GraphQL.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=microgenetics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</div>
+Outside my own code, I'm building the Java community in Angola and the Portuguese-speaking world, and connecting it with the global Java ecosystem.
 
 ---
 
-##   Profissional Experience
+## Kambas do Java — Luanda JUG
 
-<!-- GIF de trabalho/escritório -->
-<p></p>
+I founded and lead **Kambas do Java**, the Java User Group of Luanda. It brings Angolan developers together to learn, share and build with Java, in Portuguese, and links them to the international Java community.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Working"/>
-</div>
+- **Meetups, workshops and talks** for developers at every level
+- **A beginner computing course** for people taking their first steps with technology
+- **Bridges abroad:** inviting international speakers and community leaders to reach a young, fast-growing audience in Lusophone Africa
 
+<!-- TODO: add proof here once you have it — number of members, number of events and since when, link to the group (Meetup / Telegram / WhatsApp / YouTube), photos or slides from past events. Only add numbers you can verify. -->
 
-## 📌 RoadMap Profissional  
+🇦🇴 *Em português:* o Kambas do Java é a comunidade Java de Luanda. Se queres aprender, partilhar ou apoiar, fala comigo.
 
-```mermaid
-timeline
-    title RoadMap Profissional
-    section 2023
-      Start Programming : HTML + CSS + JavaScript
-    section 2024
-      Web Developer : SQL
-      Databases : MySQL + PostgreSQL
-      Backend : Java + Spring Boot
-    section 2025
-      Junior Web Developer : Bootstrap + Tailwind CSS
-      Frontend Frameworks : Angular + Vue + React
-      Backend Extra : Python + Django
-    section Futuro
-       Objetivo Final : Full Stack Developer
-```
+### Speaking & collaboration
+
+| If you are… | Let's talk about… |
+|:--|:--|
+| **A speaker or community leader** | Giving a remote or in-person talk to the Luanda JUG, in English or Portuguese |
+| **A company, school or venue** | Hosting events, sponsoring meetups, supporting speaker travel or learning programs |
+| **A conference or JUG organizer** | Community tracks, JUG exchanges, and building a user group in an emerging market |
+
+📫 **[maurochelsio@gmail.com](mailto:maurochelsio@gmail.com)**
 
 ---
 
-##  Let's Connect!
+## Featured Projects
 
-<!-- GIF de conexão/rede -->
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100" alt="Connecting"/>
-</div>
+| Project | What it is | Stack |
+|:--|:--|:--|
+| **[Helpdesk System](https://github.com/maurochelsio/helpdesk-system)** | Tuition and support management system built around a relational data model. | SQL · MySQL · PostgreSQL |
+| **[AppToDo](https://github.com/maurochelsio/AppToDo)** | Task management app with a clean, responsive interface. | React |
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mauro-de-lima-1212712b1/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&hover=shadow"/>
-  </a>
-  <a href="mailto:maurochelsio@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/maurochelsio" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/YOUR_WHATSAPP_NUMBER" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-</div>
+<!-- TODO: for each project add one line of result or context (who it is for, what it solves, a live demo link). Your strongest next addition is a Java / Spring Boot project with a README, tests, Docker and a diagram. -->
+
+More on my [repositories page](https://github.com/M4uroL?tab=repositories).
 
 ---
 
-##  Support My Work
+## Tech Stack
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7qDVHln5s9aZqs2k/giphy.gif" width="100" alt="Coffee"/>
-  <br>
-  <p><em>"If you like my work, how about buying me a coffee?" ☕</em></p>
-  <a href="https://buymeacoffee.com/maurochelsio" target="_blank">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-  </a>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,python,flask,js,react,postgres,mysql,docker,git,linux,aws&theme=dark">
+  <img alt="Java, Spring Boot, Python, Flask, JavaScript, React, PostgreSQL, MySQL, Docker, Git, Linux, AWS" src="https://skillicons.dev/icons?i=java,spring,python,flask,js,react,postgres,mysql,docker,git,linux,aws&theme=light">
+</picture>
 
 ---
 
-##  Latest Blog Posts
+## Let's Connect
 
+Open to talks, collaborations and open-source work around Java and tech communities in Africa.
 
-
-<!-- GIF de escrita/blog -->
-<div align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="100" alt="Writing"/>
-</div>
-
-<!-- BLOG-POST-LIST:START -->
-- [How to Build a REST API with Spring Boot](https://yourblog.com/api-spring-boot)
-- [Java: Complete Guide for Beginners](https://yourblog.com/react-hooks-guide)
-- [Microservices: Patterns and Practices](https://yourblog.com/microservices-patterns)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
----
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:2196F3&height=120&section=footer"/>
-  <br>
-  
-  <!-- GIF de despedida -->
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" alt="Wave"/>
-  
-**💚 Made with love, dedication, and lots of coffee ☕**
-
-*"Success is the sum of small efforts repeated day in and day out."*
-
- If you liked my work, consider giving a star to my repositories!
-
-  
-  <img src="https://komarev.com/ghpvc/?username=M4uroL&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
-<br>
-<div align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="100"/>
-</div>
+[LinkedIn](https://www.linkedin.com/in/mauro-de-lima-1212712b1/) · [X / Twitter](https://x.com/maurochelsio) · [maurochelsio@gmail.com](mailto:maurochelsio@gmail.com)
